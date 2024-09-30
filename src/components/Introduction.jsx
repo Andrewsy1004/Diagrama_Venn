@@ -40,7 +40,7 @@ export const Introduction = () => {
                     </div>
                     <div className="hidden md:block">
                         <img
-                            src="/src/assets/diagrama.gif" 
+                            src="/assets/diagrama.gif" 
                             width={500}
                             height={500}
                             alt="Animación"
