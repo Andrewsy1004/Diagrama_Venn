@@ -60,7 +60,7 @@ const VennDiagram = ({ sets }) => {
   };
 
   return (
-    <svg width="500" height="350" viewBox="0 0 500 350" className='mx-auto mb-3'>
+   <svg width="100%" height="auto" viewBox="0 0 500 350" className="mx-auto mb-3" preserveAspectRatio="xMidYMid meet" >
       {sets.map((set, index) => (
         <circle
           key={index}
