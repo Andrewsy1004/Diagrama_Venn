@@ -1,8 +1,20 @@
-# React + Vite
+# Set Operations Learning App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+An interactive app designed to help users learn set operations (union, intersection, difference, etc.) through both graphical and mathematical visualizations. This app provides a hands-on way to understand and explore the relationships between sets, making complex concepts easier to grasp.
 
-Currently, two official plugins are available:
+## Features
+- 🖼️ Visual representation of set operations using Venn diagrams.
+- ➕ Support for multiple sets (2 or more).
+- 🔄 Real-time updates as users interact with the sets.
+- 📐 Mathematical notations and explanations of each operation.
+- ✍️ Interactive interface to add, modify, and analyze sets.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Installation
+```
+    git clone https://github.com/Andrewsy1004/Diagrama_Venn.git
+    npm install
+    npm run start
+    open in your browser http://localhost:5173/
+```
