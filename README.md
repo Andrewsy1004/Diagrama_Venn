@@ -1,6 +1,6 @@
 # Set Operations Learning App
 
-## Description
+## 📜 Description
 An interactive app designed to help users learn set operations (union, intersection, difference, etc.) through both graphical and mathematical visualizations. This app provides a hands-on way to understand and explore the relationships between sets, making complex concepts easier to grasp.
 
 ## Features
@@ -11,7 +11,7 @@ An interactive app designed to help users learn set operations (union, intersect
 - ✍️ Interactive interface to add, modify, and analyze sets.
 
 
-## Installation
+## 🚀 Installation
 ```
     git clone https://github.com/Andrewsy1004/Diagrama_Venn.git
     npm install
